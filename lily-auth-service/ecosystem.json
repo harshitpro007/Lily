@@ -1,0 +1,18 @@
+{
+    "apps": [{
+        "name": "group",
+        "script": "ts-node",
+        "args": ["server.ts"],
+        "cwd": "./",
+        "watch": true,
+        "env": {
+            "NODE_ENV": "development"
+        },
+        "env_testing": {
+            "NODE_ENV": "testing"
+        },
+        "env_staging": {
+            "NODE_ENV": "staging"
+        }
+    }]
+}

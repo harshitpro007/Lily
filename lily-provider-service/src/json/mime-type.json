@@ -1,0 +1,324 @@
+{
+	"video": [
+		{
+			"type": "Flash",
+			"extension": ".flv",
+			"mimetype": "video/x-flv",
+			"defaultType": "VIDEO"
+		},
+		{
+			"type": "MPEG-4",
+			"extension": ".mp4",
+			"mimetype": "video/mp4",
+			"defaultType": "VIDEO"
+		},
+		{
+			"type": "iPhone Index",
+			"extension": ".m3u8",
+			"mimetype": "application/x-mpegURL",
+			"defaultType": "VIDEO"
+		},
+		{
+			"type": "MPEG transport stream",
+			"extension": ".ts",
+			"mimetype": "video/mp2t",
+			"defaultType": "VIDEO"
+		},
+		{
+			"type": "3GPP audio/video container",
+			"extension": ".3gp",
+			"mimetype": "video/3gpp",
+			"defaultType": "VIDEO"
+		},
+		{
+			"type": "QuickTime",
+			"extension": ".mov",
+			"mimetype": "video/quicktime",
+			"defaultType": "VIDEO"
+		},
+		{
+			"type": "AVI: Audio Video Interleave",
+			"extension": ".avi",
+			"mimetype": "video/x-msvideo",
+			"defaultType": "VIDEO"
+		},
+		{
+			"type": "Windows Media",
+			"extension": ".wmv",
+			"mimetype": "video/x-ms-wmv",
+			"defaultType": "VIDEO"
+		},
+		{
+			"type": "WEBM video",
+			"extension": ".webm",
+			"mimetype": "video/webm",
+			"defaultType": "VIDEO"
+		},
+		{
+			"type": "MPEG Video",
+			"extension": ".mpeg",
+			"mimetype": "video/mpeg",
+			"defaultType": "VIDEO"
+		},
+		{
+			"type": "OGG video",
+			"extension": ".ogv",
+			"mimetype": "video/ogg",
+			"defaultType": "VIDEO"
+		},
+		{
+			"type": "3GPP2 audio/video container",
+			"extension": ".3g2",
+			"mimetype": "video/3gpp2",
+			"defaultType": "VIDEO"
+		}
+	],
+	"image": [
+		{
+			"type": "JPEG images",
+			"extension": ".jpeg",
+			"mimetype": "image/jpeg",
+			"defaultType": "IMAGE"
+		},
+		{
+			"type": "JPEG image",
+			"extension": ".jpe",
+			"mimetype": "image/jpeg",
+			"defaultType": "IMAGE"
+		},
+		{
+			"type": "JPEG file interchange format",
+			"extension": ".jpe",
+			"mimetype": "image/pipeg",
+			"defaultType": "IMAGE"
+		},
+		{
+			"type": "JPG images",
+			"extension": ".jpg",
+			"mimetype": "image/jpeg",
+			"defaultType": "IMAGE"
+		},
+		{
+			"type": "Portable Network Graphics",
+			"extension": ".png",
+			"mimetype": "image/png",
+			"defaultType": "IMAGE"
+		},
+		{
+			"type": "Windows OS/2 Bitmap Graphics",
+			"extension": ".bmp",
+			"mimetype": "image/bmp",
+			"defaultType": "IMAGE"
+		},
+		{
+			"type": "Bitmap",
+			"extension": ".bmp",
+			"mimetype": "image/x-windows-bmp",
+			"defaultType": "IMAGE"
+		},
+		{
+			"type": "Graphics Interchange Format (GIF)",
+			"extension": ".gif",
+			"mimetype": "image/gif",
+			"defaultType": "IMAGE"
+		},
+		{
+			"type": "WEBP image",
+			"extension": ".webp",
+			"mimetype": "image/webp",
+			"defaultType": "IMAGE"
+		},
+		{
+			"type": "SVG",
+			"extension": ".svg",
+			"mimetype": "image/svg+xml",
+			"defaultType": "IMAGE"
+		}
+	],
+	"excel": [
+		{
+			"type": "XlSX File",
+			"extension": ".xlsx",
+			"mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+			"defaultType": "XlSX"
+		},
+		{
+			"type": "XlS File",
+			"extension": ".xls",
+			"mimetype": "application/vnd.ms-excel",
+			"defaultType": "XlS"
+		},
+		{
+			"type": "CSV File",
+			"extension": ".csv",
+			"mimetype": "application/vnd.ms-excel",
+			"defaultType": "CSV"
+		},
+		{
+			"type": "Comma-separated values (CSV)",
+			"extension": ".csv",
+			"mimetype": "text/csv",
+			"defaultType": "CSV"
+		}
+	],
+	"pdf": [
+		{
+			"type": "Adobe Portable Document Format (PDF)",
+			"extension": ".pdf",
+			"mimetype": "application/pdf",
+			"defaultType": "PDF"
+		}
+	],
+	"audio": [
+		{
+			"type": "",
+			"extension": ".au",
+			"mimetype": "audio/basic",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "",
+			"extension": ".snd",
+			"mimetype": "audio/basic",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "Musical Instrument Digital Interface (MIDI)",
+			"extension": ".midi",
+			"mimetype": "audio/x-midi",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "Musical Instrument Digital Interface (MIDI)",
+			"extension": ".mid",
+			"mimetype": "audio/midi",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "",
+			"extension": ".rmi",
+			"mimetype": "audio/mid",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "MP3 audio",
+			"extension": ".mp3",
+			"mimetype": "audio/mpeg",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "",
+			"extension": ".aif",
+			"mimetype": "audio/x-aiff",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "",
+			"extension": ".aifc",
+			"mimetype": "audio/x-aiff",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "",
+			"extension": ".aiff",
+			"mimetype": "audio/x-aiff",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "",
+			"extension": ".m3u",
+			"mimetype": "audio/x-mpegurl",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "",
+			"extension": ".ra",
+			"mimetype": "audio/vnd.rn-realaudio",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "",
+			"extension": ".ram",
+			"mimetype": "audio/vnd.rn-realaudio",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "",
+			"extension": ".ogg",
+			"mimetype": "audio/ogg",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "Opus audio",
+			"extension": ".opus",
+			"mimetype": "audio/opus",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "Waveform Audio Format",
+			"extension": ".wav",
+			"mimetype": "audio/wav",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "",
+			"extension": ".flac",
+			"mimetype": "audio/flac",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "",
+			"extension": ".m3u8",
+			"mimetype": "audio/mpegurl",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "",
+			"extension": ".m4a",
+			"mimetype": "audio/mp4",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "",
+			"extension": ".m4b",
+			"mimetype": "audio/mp4",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "",
+			"extension": ".pls",
+			"mimetype": "audio/x-scpls",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "AAC audio",
+			"extension": ".aac",
+			"mimetype": "audio/aac",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "OGG audio",
+			"extension": ".oga",
+			"mimetype": "audio/ogg",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "WEBM audio",
+			"extension": ".weba",
+			"mimetype": "audio/webm",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "3GPP audio/video container",
+			"extension": ".3gp",
+			"mimetype": "audio/3gpp",
+			"defaultType": "AUDIO"
+		},
+		{
+			"type": "3GPP2 audio/video container",
+			"extension": ".3g2",
+			"mimetype": "audio/3gpp2",
+			"defaultType": "AUDIO"
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "resolveJsonModule": true,
+    "target": "ES2020",
+    "sourceMap": true,
+    "outDir": "build",
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "typeRoots": [
+      "node_modules/@types"
+
+      // "./src/interfaces/index.d.ts"
+    ],
+    "types": [
+      // ... your other types
+      "node"
+    ],
+    "paths": {
+      "@config/*": [
+        "./src/config/*"
+      ],
+      "@controllers/*": [
+        "./src/controllers/*"
+      ],
+      "@dao/*": [
+        "./src/dao/*"
+      ],
+      "@json/*": [
+        "./src/json/*"
+      ],
+      "@lib/*": [
+        "./src/lib/*"
+      ],
+      "@mappers/*": [
+        "./src/mappers/*"
+      ],
+      "@models/*": [
+        "./src/models/*"
+      ],
+      "@plugins/*": [
+        "./src/plugins/*"
+      ],
+      "@routes/*": [
+        "./src/routes/*"
+      ],
+      "@utils/*": [
+        "./src/utils/*"
+      ],
+      "@modules/*": [
+        "./src/modules/*"
+      ],
+    }
+  },
+  "filesGlob": [
+    "./src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "src/lib/customTypings"
+  ], 
+}

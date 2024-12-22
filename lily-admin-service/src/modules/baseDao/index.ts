@@ -1,0 +1,1 @@
+export { BaseDao, baseDao } from "./BaseDao";
